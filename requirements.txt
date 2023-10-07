@@ -1,5 +1,5 @@
 Pandas
 Numpy
-Scikit-learn
+Scikit-learn==1.2.2
 Streamlit
 Joblib
