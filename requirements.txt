@@ -1,6 +1,5 @@
 Pandas
 Numpy
-Scikit-learn==1.2.2
-Streamlit
+scikit-learn
 Joblib
 Pickle
