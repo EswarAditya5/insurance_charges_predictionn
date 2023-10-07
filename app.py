@@ -7,7 +7,6 @@
 import pandas as pd
 import numpy as np
 import streamlit as st
-from prediction import predict
 
 
 # In[2]:
@@ -30,7 +29,7 @@ with col3:
 
 
 if st.button('Predict Charges'):
-    result=predict(np.array([[age,bmi,children]]))
+    result=predict(np.array([[age,bmi,children,charges]]))
     st.text(result[0])
 
 
