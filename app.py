@@ -29,7 +29,7 @@ with col3:
 
 
 if st.button('Predict Charges'):
-    result=predict(np.array([[age,bmi,children]]))
+    result=predict(np.array([['age','bmi','children']]))
     st.text(result[0])
 
 
