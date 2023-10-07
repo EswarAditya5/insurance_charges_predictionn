@@ -3,3 +3,4 @@ Numpy
 Scikit-learn==1.2.2
 Streamlit
 Joblib
+Pickle
