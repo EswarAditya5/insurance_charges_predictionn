@@ -7,7 +7,7 @@
 import pandas as pd
 import numpy as np
 import streamlit as st
-
+import joblib
 
 # In[2]:
 
@@ -30,20 +30,6 @@ with col3:
 insurance=pd.read_csv('insurance.csv')
 y=insurance.charges
 X=insurance.drop('charges',axis=1)
-
-
-# from sklearn.linear_model import LinearRegression
-
-# reg=LinearRegression()
-
-# reg.fit(X,y)
-
-# reg.score(X,y)
-
-import joblib
-
-# joblib.dump(reg,'reg_model.sav')
-
 
 
 from sklearn.tree import DecisionTreeRegressor
