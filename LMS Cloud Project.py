@@ -70,43 +70,7 @@ y=insurance.charges
 X=insurance.drop('charges',axis=1)
 
 
-# In[11]:
-
-
-from sklearn.linear_model import LinearRegression
-
-
-# In[12]:
-
-
-reg=LinearRegression()
-
-
-# In[13]:
-
-
-reg.fit(X,y)
-
-
-# In[14]:
-
-
-reg.score(X,y)
-
-
-# In[15]:
-
-
 import joblib
-
-
-# In[16]:
-
-
-# joblib.dump(reg,'reg_model.sav')
-
-
-# In[17]:
 
 
 from sklearn.tree import DecisionTreeRegressor
