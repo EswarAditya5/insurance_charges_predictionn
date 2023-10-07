@@ -8,10 +8,8 @@ import io
 import os
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
 import streamlit as st
-get_ipython().run_line_magic('cd', '"D:\\Imarticus\\Machine Learning\\lms\\projects\\Cloud Project"')
+#get_ipython().run_line_magic('cd', '"D:\\Imarticus\\Machine Learning\\lms\\projects\\Cloud Project"')
 
 
 # In[2]:
