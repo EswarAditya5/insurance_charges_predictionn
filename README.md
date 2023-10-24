@@ -7,3 +7,17 @@
 <img src = 'https://thomasjpfan.github.io/data-umbrella-2020-streamlit-slides/images/streamlit.png', height = "50" alt = 'Streamlit'/><img width = '12'/>
 <img src = 'https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png', height = "50" alt = 'Github'/><img width = '12'/>
 </div>
+
+
+
+
+
+### Deployment with streamlit
+
+
+
+
+Thank you for visiting this project!
+
+**Author:** Eswar Aditya
+**Contact:** eswaraditya63@gmail.com
