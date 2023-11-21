@@ -20,4 +20,4 @@
 Thank you for visiting this project!
 
 **Author:** Eswar Aditya
-**Contact:** eswaraditya63@gmail.com
+**Contact:** eadityar@gmail.com
